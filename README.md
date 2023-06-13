@@ -29,15 +29,15 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
-• I'm currently wrapping up my final year in Computer Science and Engineering. 
-• I'm a bit of a tech sponge, soaking up any new technology that comes my way super quickly.
-• I've got my own company under my belt, which is currently being used by 10 driving schools. Pretty cool, right?
-• Last summer, I got the chance to intern in Lisbon, Portugal as a software engineer. I mainly focused on frontend stuff and learned a ton.
-• I've really got a handle on the importance of user experience, thanks to my internship and startup experiences.
-• I'm all about writing scalable code, both on the frontend and backend. I've tangled with spaghetti code before and trust me, it's not fun.
-• I've got experience in every step of product development. It's been quite the journey, but I wouldn't trade it for anything.
-• I've worked in teams, led teams, and even managed teams in an international environment. I love the variety and the challenge.
-• I've got a keen interest in the business world too. I've taken courses in Microeconomics, Introduction to Finance, and Marketing, and I'm currently diving into Decision Economics.
+- I'm currently wrapping up my final year in Computer Science and Engineering. 
+- I'm a bit of a tech sponge, soaking up any new technology that comes my way super quickly.
+- I've got my own company under my belt, which is currently being used by 10 driving schools. Pretty cool, right?
+- Last summer, I got the chance to intern in Lisbon, Portugal as a software engineer. I mainly focused on frontend stuff and learned a ton.
+- I've really got a handle on the importance of user experience, thanks to my internship and startup experiences.
+- I'm all about writing scalable code, both on the frontend and backend. I've tangled with spaghetti code before and trust me, it's not fun.
+- I've got experience in every step of product development. It's been quite the journey, but I wouldn't trade it for anything.
+- I've worked in teams, led teams, and even managed teams in an international environment. I love the variety and the challenge.
+- I've got a keen interest in the business world too. I've taken courses in Microeconomics, Introduction to Finance, and Marketing, and I'm currently diving into Decision Economics.
 
 ---
 
