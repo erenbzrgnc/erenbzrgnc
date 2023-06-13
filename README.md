@@ -70,11 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erenbzrgnc&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
 
-<div style="display:inline-block" > 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenbzrgnc&layout=compact&theme=dark)
 
   
-</div  >
+
 
 
 
